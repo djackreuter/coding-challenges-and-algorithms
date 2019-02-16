@@ -1,6 +1,8 @@
 /**
- * Task: Write code that a caller can use to transform an arbutrarily nested  data structure into either html or a JavaScript literal
- * Details: Should handle a linear collection (array / list), associative collection (dictionary / map), and an individual item (string / number / etc) 
+ * Task: Write code that a caller can use to transform an arbutrarily nested 
+ * data structure into either html or a JavaScript literal
+ * Details: Should handle a linear collection (array / list), associative 
+ * collection (dictionary / map), and an individual item (string / number / etc)
  */
 
 class ParseData {
